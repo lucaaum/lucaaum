@@ -12,7 +12,3 @@ Olá, meu nome é Lucas e tenho 18 anos. Atualmente tenho experiência com Lingu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaum&layout=compact&theme=highcontrast"/>
 </div>
 <br/>
-
-  ![Snake animation](https://github.com/lucaaum/lucaaum/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
